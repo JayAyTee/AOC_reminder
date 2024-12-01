@@ -2,3 +2,4 @@
 node_modules
 DB.json
 reminders.log
+package-lock.json
